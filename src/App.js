@@ -58,6 +58,12 @@ export default () => {
           <MovieRow key={key} title={item.title} items={item.items} />
        ))}
      </section>
+
+     <footer>
+      &copy; Copyright: <strong>Matheus Barbosa</strong>
+      <br></br>
+      Direitos de imagem para Netflix e dados para Themoviedb.org
+     </footer>
     </div>
   )
 }
