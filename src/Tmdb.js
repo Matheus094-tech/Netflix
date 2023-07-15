@@ -9,7 +9,7 @@ const API_BASE = 'https://api.themoviedb.org/3';
 - comédia
 - terror
 - romance
-- documentários
+- documentário
 */
 
 const basicFetch = async (endpoint) => {
