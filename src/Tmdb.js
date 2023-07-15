@@ -2,7 +2,7 @@ const API_KEY = '3d6b66836cdf93a20159e5e4ae67b72f';
 const API_BASE = 'https://api.themoviedb.org/3';
 
 /*
-- originais netflix
+- originais netflix (nao existe, em alta tv)
 - recomendados (trending)
 - em alta (top rated)
 - ação
